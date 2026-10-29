@@ -21,7 +21,7 @@ public class PlayerMovement : MonoBehaviour
     public float maxStamina = 100f;
     public float staminaDrain = 25f;
     public float jetpackForce = 12f;
-    public float doubleTapInterval = 0.3f;
+    public float doubleTapInterval = 0.5f;
 
     [Header("Estado del jetpack")]
     public float currentStamina;
@@ -64,21 +64,35 @@ public class PlayerMovement : MonoBehaviour
         bool unlocked = GameManager.Instance != null &&
                         GameManager.Instance.jetpackUnlocked;
 
+
         if (unlocked && Input.GetKeyDown(KeyCode.Space))
         {
             float timeSinceLastPress = Time.time - lastSpacePressTime;
 
-            if (timeSinceLastPress <= doubleTapInterval &&
-                !jetpackActive &&
-                currentStamina > 0f)
+            if (timeSinceLastPress <= doubleTapInterval)
             {
-                jetpackActive = true;
-                isCharging = false;
-                isFlying = false;
-            }
+                if (jetpackActive)
+                {
+                    jetpackActive = false;
+                    isFlying = false;
+                }
+                else if (currentStamina > 0f)
+                {
+                    jetpackActive = true;
+                    isCharging = false;
+                    isFlying = false;
+                }
 
-            lastSpacePressTime = Time.time;
+                // Evita que la siguiente pulsación
+                // vuelva a contar como parte de esta doble pulsación.
+                lastSpacePressTime = -10f;
+            }
+            else
+            {
+                lastSpacePressTime = Time.time;
+            }
         }
+
 
         // Salto cargado normal, solo si el jetpack no esta activo.
         if (!jetpackActive)
