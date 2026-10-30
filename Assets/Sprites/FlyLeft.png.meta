@@ -121,7 +121,301 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: FlyLeft_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0f368ebd2fc6942a4980eb53d50ae7
+      internalID: 1338059796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyLeft_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 9
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f555ca14ee232546b93b6d8c89e2404
+      internalID: -1226706894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyLeft_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 5
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa802570a4daf34b9c61976d88a0c89
+      internalID: 1475015141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyLeft_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 6
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bd8e5d2bcdcad4a860ad03f34798cf
+      internalID: 1523756910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyLeft_4
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9701ed15ff7cbb40ae4138072a014e4
+      internalID: -2505812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyLeft_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 3
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a5c4fb357c0a04fb270ce039bf5e29
+      internalID: -2141697153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyLeft_6
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6bba8bbf880374a8a76efbe5799d3f
+      internalID: 601710030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyLeft_7
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 14
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09550c3572fd9142a5c2b3ec3143bb6
+      internalID: -1507900617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyLeft_8
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 3
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b86fc19996b7c42b4ff5284f569203
+      internalID: 1576445131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyLeft_9
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 2
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4704a697e226b7f499fd85cdc3cf7f55
+      internalID: 222229667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyLeft_10
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2621546fcef744686d42a60a2e4272
+      internalID: -1163866969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyLeft_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c81d6f04063dc449121f086e2af1c1
+      internalID: -1892861110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyLeft_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ca0d57baa692b4d9c7f77682a29681
+      internalID: -950301064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyLeft_13
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 6
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c225423c9c14d1e4cb6f7254e8adf5de
+      internalID: 987768295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +426,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FlyLeft_0: 1338059796
+      FlyLeft_1: -1226706894
+      FlyLeft_10: -1163866969
+      FlyLeft_11: -1892861110
+      FlyLeft_12: -950301064
+      FlyLeft_13: 987768295
+      FlyLeft_2: 1475015141
+      FlyLeft_3: 1523756910
+      FlyLeft_4: -2505812
+      FlyLeft_5: -2141697153
+      FlyLeft_6: 601710030
+      FlyLeft_7: -1507900617
+      FlyLeft_8: 1576445131
+      FlyLeft_9: 222229667
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

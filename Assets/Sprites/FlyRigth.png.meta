@@ -121,7 +121,280 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: FlyRigth_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e49104e016bb52449cb764ac92e4a16
+      internalID: -1236980363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyRigth_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a84cf8ae6dc0e24abce40b9d4a79307
+      internalID: -742088972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyRigth_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 4
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ae6243f978d9047ad0e91be89219b7
+      internalID: 418076357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyRigth_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 9
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2b5d4056b7df04dbbb3b105fcff951
+      internalID: 1111474398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyRigth_4
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 7
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751f1a1da25eafa46a3a078adc7931c2
+      internalID: -1703556702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyRigth_5
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb8596211ba1e440b51bf9d4702f11d
+      internalID: 1573913470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyRigth_6
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 7
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd3bb3a81c5a3a44b627c1838d2d53d
+      internalID: 1452862290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyRigth_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 7
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd460de76bf8904c9a2913e29d1e819
+      internalID: 1766089497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyRigth_8
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 7
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad14761144e54f7489b473b8f08c8819
+      internalID: -2101596159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyRigth_9
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2
+        width: 114
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5511fb8479e894c8d181d3c95789d3
+      internalID: 377759887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyRigth_10
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 7
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee865fa57f06e6c4fa81779bf248d32d
+      internalID: 939921269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyRigth_11
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 4
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39798c25d7635342a21364e75d1a13b
+      internalID: 2005555922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyRigth_12
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a83a4e6e4a7c5c46907641383ef8838
+      internalID: -1660908481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +405,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FlyRigth_0: -1236980363
+      FlyRigth_1: -742088972
+      FlyRigth_10: 939921269
+      FlyRigth_11: 2005555922
+      FlyRigth_12: -1660908481
+      FlyRigth_2: 418076357
+      FlyRigth_3: 1111474398
+      FlyRigth_4: -1703556702
+      FlyRigth_5: 1573913470
+      FlyRigth_6: 1452862290
+      FlyRigth_7: 1766089497
+      FlyRigth_8: -2101596159
+      FlyRigth_9: 377759887
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
