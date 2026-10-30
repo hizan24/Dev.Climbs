@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/2DProject/InGame.unity
     guid: f5902a25bef88bb4e862e9ccd6583e8d
+  - enabled: 1
+    path: Assets/Scenes/Nivel1.unity
+    guid: 661baf74e3ee1834d8239012cf4eb539
+  - enabled: 1
+    path: Assets/Scenes/Nivel2.unity
+    guid: b0ad245cd1e49fe4081f89dde89973aa
   m_configObjects: {}
