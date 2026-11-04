@@ -88,6 +88,7 @@ public class PlayerMovement : MonoBehaviour
             spriteRenderer.flipX = false;
         }
 
+
         // EJECUTAR SALTO CARGADO
         if (isCharging && Input.GetKeyUp(KeyCode.Space))
         {
