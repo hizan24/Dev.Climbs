@@ -18,21 +18,41 @@ public class PlayerMovement : MonoBehaviour
     public float maxJumpForce = 12f;
     public float chargeSpeed = 5f;
 
+    [Header("Mejoras por fase")]
+    public float phase2MaxJumpForce = 15f;
+
+    private float activeMaxJumpForce;
+
     private bool isCharging;
     private float currentJumpForce;
     private bool isGrounded;
 
     private Rigidbody2D rb;
     private Animator animator;
+    private SpriteRenderer spriteRenderer;
 
     public Transform groundCheck;
 
     private float horizontal;
+    private float movingPlatformVelocityX;
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponentInChildren<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+
+        activeMaxJumpForce = maxJumpForce;
+    }
+
+    public void ActivatePhase2JumpUpgrade()
+    {
+        activeMaxJumpForce = phase2MaxJumpForce;
+    }
+
+    public void SetMovingPlatformVelocity(float velocityX)
+    {
+        movingPlatformVelocityX = velocityX;
     }
 
     void Update()
@@ -58,10 +78,17 @@ public class PlayerMovement : MonoBehaviour
             currentJumpForce = Mathf.Clamp(
                 currentJumpForce,
                 minJumpForce,
-                maxJumpForce
+                activeMaxJumpForce
             );
         }
 
+        // GIRAR SIN DESPLAZARSE AL CARGAR EL SALTO
+        if (spriteRenderer != null)
+        {
+            spriteRenderer.flipX = false;
+        }
+
+        // EJECUTAR SALTO CARGADO
         if (isCharging && Input.GetKeyUp(KeyCode.Space))
         {
             rb.velocity = new Vector2(
@@ -72,10 +99,15 @@ public class PlayerMovement : MonoBehaviour
             isCharging = false;
         }
 
+        // ACTUALIZAR ANIMACIONES
         if (animator != null)
         {
             animator.SetFloat("Horizontal", horizontal);
-            animator.SetFloat("Speed", Mathf.Abs(horizontal));
+            animator.SetFloat(
+                "Speed",
+                isCharging ? 0f : Mathf.Abs(horizontal)
+            );
+
             animator.SetBool("IsJumping", !isGrounded);
             animator.SetBool("IsCharging", isCharging);
         }
@@ -83,8 +115,14 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
+        // BLOQUEAR MOVIMIENTO DURANTE LA CARGA
+        float movementX = isCharging
+            ? 0f
+            : horizontal * moveSpeed;
+
+        // MANTENER MOVIMIENTO DE PLATAFORMAS MOVILES
         rb.velocity = new Vector2(
-            horizontal * moveSpeed,
+            movementX + movingPlatformVelocityX,
             rb.velocity.y
         );
     }

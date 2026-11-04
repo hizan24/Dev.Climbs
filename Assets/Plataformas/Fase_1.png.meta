@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 3049b0afa292cf8409f766996ba207d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 1522
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccfe4c1bec5a754b8c008692b4c2ab9
+      internalID: -1956795501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1019
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3660851eb08205542bb27ae133c4dffc
+      internalID: 2102940901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 786
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e791bc86d451e374e85e640aa418917a
+      internalID: 1876129895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 640
+        width: 384
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ab703cd3c25a744815f52ca685a9d3
+      internalID: 1972642234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 646
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766ddd9f3b10b7948993d7e3bc495d0a
+      internalID: 1264809467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_5
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 630
+        width: 348
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d477867a5419c84db2bb4d040214f69
+      internalID: 1023739643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_6
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 573
+        width: 771
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dfe65c08b8341408171bc666a1f22c
+      internalID: 1851299686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_7
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 625
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34003f5d65090ab40a0fe957e4cf3120
+      internalID: 395453431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 280
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78969a9f2ee0cf041925bbf771bfdc4a
+      internalID: -1197937421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 314
+        width: 696
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c758c2a040354419a43c158c735b73
+      internalID: 1892293125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_10
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 622
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbd5e644f6585044b6d9ef8a6093722
+      internalID: 955048053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_11
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 614
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4041bb04b0438bd4090f43164c05220a
+      internalID: 1699254659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_12
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 592
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081a0bf89d53d1148be0fc85c014cc4d
+      internalID: -1759378923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_13
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 613
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b26b72656931941844797cdda91266
+      internalID: -1817915382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_14
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 336
+        width: 351
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8541871b767921d4ab46f4560f0c6d7b
+      internalID: 1363949029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fbfd826055f2743bde74035319e306
+      internalID: 1938470599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_16
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 592
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7465f38a37c934a9787025d4f67da1
+      internalID: 1738211700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_17
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 576
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9d625280947bd48af3fdc301ad8492
+      internalID: 1783976894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 508
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1001afa0e819a0542b7058fcc48aea1a
+      internalID: 1131982813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_19
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 154
+        width: 224
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69b177dd6fa6394eb857eeeeae03035
+      internalID: 208867194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_20
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 168
+        width: 169
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec44bb35365259344887af14675306b1
+      internalID: -1454826521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_21
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 321
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b64a707118edb49974762c999fe00a
+      internalID: 1110502500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_22
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 321
+        width: 187
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ed04007364aaf44941bbfff3663d53
+      internalID: 2099187243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_23
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 334
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43db7d981349d8f4e8332cbceb9f5fa9
+      internalID: -368659411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_24
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 328
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be450cc103ddad4a81e9c3b784827c8
+      internalID: -1398331261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_25
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 334
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ace9932d204f24b8582961bb2b012e
+      internalID: -2065193333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_26
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 338
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f546d0669caf6a84db2ccba3fd3fd458
+      internalID: 1944272636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_27
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 184
+        width: 171
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f377aa71b8ddf8f41a7511fd7e7a8f14
+      internalID: -807778238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_28
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 170
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f149cf977c4aa5a4dbef07fd7b57fe94
+      internalID: -849011694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_29
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 178
+        width: 397
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df664ca32a9157479c65313f4f3519a
+      internalID: 1261114808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_30
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 14
+        width: 206
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dbc96bdb67fc74aaa3d14237a3244f
+      internalID: 1682306764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_31
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 199
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132818148e01600419823537e6106805
+      internalID: 288187502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_32
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 22
+        width: 209
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766297d21d17cff4e9b866b721126e35
+      internalID: 997319902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Ciberpunk de Interior Computador_33
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 26
+        width: 474
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2a3e9082e7f164b9797e3be2af6811
+      internalID: -437498647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spritesheet Ciberpunk de Interior Computador_0: -1956795501
+      Spritesheet Ciberpunk de Interior Computador_1: 2102940901
+      Spritesheet Ciberpunk de Interior Computador_10: 955048053
+      Spritesheet Ciberpunk de Interior Computador_11: 1699254659
+      Spritesheet Ciberpunk de Interior Computador_12: -1759378923
+      Spritesheet Ciberpunk de Interior Computador_13: -1817915382
+      Spritesheet Ciberpunk de Interior Computador_14: 1363949029
+      Spritesheet Ciberpunk de Interior Computador_15: 1938470599
+      Spritesheet Ciberpunk de Interior Computador_16: 1738211700
+      Spritesheet Ciberpunk de Interior Computador_17: 1783976894
+      Spritesheet Ciberpunk de Interior Computador_18: 1131982813
+      Spritesheet Ciberpunk de Interior Computador_19: 208867194
+      Spritesheet Ciberpunk de Interior Computador_2: 1876129895
+      Spritesheet Ciberpunk de Interior Computador_20: -1454826521
+      Spritesheet Ciberpunk de Interior Computador_21: 1110502500
+      Spritesheet Ciberpunk de Interior Computador_22: 2099187243
+      Spritesheet Ciberpunk de Interior Computador_23: -368659411
+      Spritesheet Ciberpunk de Interior Computador_24: -1398331261
+      Spritesheet Ciberpunk de Interior Computador_25: -2065193333
+      Spritesheet Ciberpunk de Interior Computador_26: 1944272636
+      Spritesheet Ciberpunk de Interior Computador_27: -807778238
+      Spritesheet Ciberpunk de Interior Computador_28: -849011694
+      Spritesheet Ciberpunk de Interior Computador_29: 1261114808
+      Spritesheet Ciberpunk de Interior Computador_3: 1972642234
+      Spritesheet Ciberpunk de Interior Computador_30: 1682306764
+      Spritesheet Ciberpunk de Interior Computador_31: 288187502
+      Spritesheet Ciberpunk de Interior Computador_32: 997319902
+      Spritesheet Ciberpunk de Interior Computador_33: -437498647
+      Spritesheet Ciberpunk de Interior Computador_4: 1264809467
+      Spritesheet Ciberpunk de Interior Computador_5: 1023739643
+      Spritesheet Ciberpunk de Interior Computador_6: 1851299686
+      Spritesheet Ciberpunk de Interior Computador_7: 395453431
+      Spritesheet Ciberpunk de Interior Computador_8: -1197937421
+      Spritesheet Ciberpunk de Interior Computador_9: 1892293125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
