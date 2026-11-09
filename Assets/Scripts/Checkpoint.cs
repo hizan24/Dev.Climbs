@@ -46,8 +46,8 @@ public class Checkpoint : MonoBehaviour
                 }
 
                 Debug.Log(
-                    "CHECKPOINT ACTIVADO. Reaparicion en: "
-                    + spawnPosition
+                    "CHECKPOINT ACTIVADO: " + gameObject.name + 
+                    "| Reaparicion en: " + spawnPosition
                 );
             }
         }
